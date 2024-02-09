@@ -24,7 +24,7 @@ import var_app
 import unittest
 import pytest
 from appium import webdriver
-
+print("heloo")
 #
 file_name = 'data_app.json'
 with open(file_name, 'r', encoding='utf-8') as f:
